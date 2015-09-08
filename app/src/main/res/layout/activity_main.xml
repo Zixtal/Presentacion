@@ -1,0 +1,98 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/verde4"
+    tools:context=".MainActivity"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Uam"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:text="@string/uam"
+        android:padding="10dp"
+        android:textSize="@dimen/xlarge"
+        android:background="@color/verde7"
+        android:textColor="@color/blanco"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:padding="10dp"
+        android:text="@string/curso"
+        android:background="@color/verde5"
+        android:textColor="@color/blanco"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="10dp"
+        android:textStyle="bold"
+        android:text="@string/nombre"
+        android:background="@color/verde4"
+        android:textColor="@color/negro"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:padding="10dp"
+        android:text="@string/grado"
+        android:gravity="center"
+        android:background="@color/verde4"
+        android:textColor="@color/negro"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:padding="10dp"
+        android:gravity="center"
+        android:text="@string/correo"
+        android:textColor="@color/negro"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:padding="10dp"
+        android:text="@string/cel"
+        android:textColor="@color/negro"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:text="@string/telf"
+        android:padding="10dp"
+        android:textColor="@color/negro"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="10dp"
+        android:textStyle="bold"
+        android:textColor="@color/negro"
+        android:text="@string/dire"
+
+        />
+
+</LinearLayout>
+
+
+
+

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Presentacion</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="uam">Universidad Autonoma Metropolitana</string>
+    <string name="curso">Programador Android Jr.</string>
+    <string name="nombre">Juan Carlos Sánchez Reynoso</string>
+    <string name="grado">Ing. Electronico</string>
+    <string name="correo">Ing.Sanchez.Reynoso@gmail.com</string>
+    <string name="cel">Cel:044.5540058525</string>
+    <string name="telf">Tef:55.50486859</string>
+    <string name="action_settings">Settings</string>
+    <string name="dire">Nube 29-A/ Real de tultepec/ Edo.Mex Mexico</string>
+</resources>
